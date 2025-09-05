@@ -20,9 +20,9 @@ todo-app/
 
 ## ▶️ How to Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/todo-app.git
-Open index.html in your browser.
+git clone https://github.com/Ananta0902/Simple-todo-list-using-JS.git
+cd Simple-todo-list-using-JS
+open index.html
 
 📌 Demo
 Example tasks included:
